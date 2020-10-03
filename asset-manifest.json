@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/e-commerce-app/static/css/main.acaa70fb.chunk.css",
+    "main.js": "/e-commerce-app/static/js/main.27870c13.chunk.js",
+    "main.js.map": "/e-commerce-app/static/js/main.27870c13.chunk.js.map",
+    "runtime-main.js": "/e-commerce-app/static/js/runtime-main.c1e94fce.js",
+    "runtime-main.js.map": "/e-commerce-app/static/js/runtime-main.c1e94fce.js.map",
+    "static/js/2.e955e3ed.chunk.js": "/e-commerce-app/static/js/2.e955e3ed.chunk.js",
+    "static/js/2.e955e3ed.chunk.js.map": "/e-commerce-app/static/js/2.e955e3ed.chunk.js.map",
+    "index.html": "/e-commerce-app/index.html",
+    "precache-manifest.c737fadcf7635b1792e4cc500344469f.js": "/e-commerce-app/precache-manifest.c737fadcf7635b1792e4cc500344469f.js",
+    "service-worker.js": "/e-commerce-app/service-worker.js",
+    "static/css/main.acaa70fb.chunk.css.map": "/e-commerce-app/static/css/main.acaa70fb.chunk.css.map",
+    "static/js/2.e955e3ed.chunk.js.LICENSE.txt": "/e-commerce-app/static/js/2.e955e3ed.chunk.js.LICENSE.txt",
+    "static/media/custom.css": "/e-commerce-app/static/media/cloth_slider.ebda9397.jpg",
+    "static/media/product_two.jpg": "/e-commerce-app/static/media/product_two.ba6552f5.jpg",
+    "static/media/sharee_one.jpg": "/e-commerce-app/static/media/sharee_one.cb231778.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1e94fce.js",
+    "static/js/2.e955e3ed.chunk.js",
+    "static/css/main.acaa70fb.chunk.css",
+    "static/js/main.27870c13.chunk.js"
+  ]
+}
